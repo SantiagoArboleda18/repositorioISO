@@ -1,0 +1,32 @@
+1.Actualización de repositorios: Se ejecutó sudo apt update para sincronizar los índices de paquetes con los servidores de Linux Mint y Ubuntu.
+
+2.Estado de Neofetch: El sistema indicó que neofetch ya está en su versión más reciente (7.1.0-4), por lo que no fue necesario descargar archivos nuevos
+
+.
+3. Al ejecutar el comando neofetch, el sistema arrojó los siguientes detalles técnicos:
+
+    OS (Operating System): Linux Mint 22.2 x86_64. Indica la distribución de Linux que estás usando y que es de 64 bits.
+
+    Host: HP ProDesk 405 G6 Small Form Factor PC. Es el modelo físico de la computadora que estás operando.
+
+    Kernel: 6.14.0-37-generic. El "corazón" del sistema operativo que gestiona la comunicación entre el software y el hardware.
+
+    Uptime: 1 hour, 29 mins. El tiempo que lleva la máquina encendida sin reiniciarse.
+
+    Packages: 1970 (dpkg). La cantidad de paquetes o programas instalados mediante el gestor dpkg.
+
+    Shell: bash 5.2.21. El intérprete de comandos que estás usando en la terminal.
+
+    Resolution: 1920x1080. La resolución actual de tu pantalla (Full HD).
+
+    DE (Desktop Environment): Cinnamon 6.4.8. El entorno de escritorio (la interfaz gráfica) de tu sistema.
+
+    WM (Window Manager): Mutter (Muffin). El software que se encarga de dibujar y posicionar las ventanas.
+
+    Terminal: gnome-terminal. La aplicación específica que estás usando para escribir los comandos.
+
+    CPU: AMD Ryzen 7 PRO 4750G with Radeon Graphics. El procesador de tu equipo, que cuenta con 8 núcleos y 16 hilos de procesamiento.
+
+    GPU: AMD ATI Radeon RX Vega 6. La tarjeta gráfica integrada en el procesador.
+
+    Memory: 2559MiB / 15292MiB. Indica que estás usando aproximadamente 2.5 GB de los 15 GB de memoria RAM disponibles.
